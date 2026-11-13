@@ -32,9 +32,7 @@ The project is divided into two parts, focusing on statistical analysis, data vi
   - NumPy
   - Pandas
   - Matplotlib
-  - Seaborn
   - SciPy
-  - Scikit-learn
 
 ## Installation
 
